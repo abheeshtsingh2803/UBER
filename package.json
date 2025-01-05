@@ -16,5 +16,8 @@
     "url": "https://github.com/abheeshtsingh2803/UBER/issues"
   },
   "homepage": "https://github.com/abheeshtsingh2803/UBER#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "remixicon": "^4.6.0"
+  }
 }
