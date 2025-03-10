@@ -1,9 +1,11 @@
-import React from 'react';
+import React from "react";
 
 const CaptainHome = () => {
     return (
-        <div>CaptainHome</div>
-    )
+        <div>
+            <h1>Captain Home</h1>
+        </div>
+    );
 }
 
-export default CaptainHome
+export default CaptainHome;
